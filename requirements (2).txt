@@ -1,0 +1,9 @@
+gradio
+openai
+langchain
+langchain-openai
+langchain-community
+pandas
+faiss-gpu
+chromadb
+tiktoken
